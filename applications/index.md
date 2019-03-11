@@ -666,6 +666,9 @@ menu_item: true
     a tool that reads video and audio signals from its jack inputs. 
   * [**xjadeo**](http://xjadeo.sourceforge.net/)
     is a very simple video player that is synchronized to jack transport. 
+  * [**Shotcut**](https://shotcut.org/)
+    is a multi-platform video editor, with a wide audio/video format support
+    and JACK transport sync.
 
 ## VOIP
 
